@@ -1,7 +1,7 @@
 # Insurance Data Analysis (Power BI)
 
 ## 📊 Project Overview
-This project analyzes 10,000 rows of insurance policy data for a company — **Care Insurance Pvt. Ltd.**  
+This project analyzes 10,000 rows of insurance policy data for a company — **SBC Insurance Pvt. Ltd.**  
 The dashboard provides insights into policy status, claim outcomes, age group distributions, and premium trends.  
 A secondary page includes a pivot-style drill-down view for deeper exploration by policy type.
 
